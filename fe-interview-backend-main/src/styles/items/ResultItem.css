@@ -1,0 +1,29 @@
+.result-item {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+}
+.result-item-main-container {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding: 20px;
+    align-items: center;
+}
+img {
+    width: 150px;
+}
+.image-placeholder {
+    width: 150px;
+    height: 150px;
+}
+
+.result-item-info-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.company-info {
+    padding: 20px;
+}
